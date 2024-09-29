@@ -18,9 +18,5 @@ This project implements an LSTM model using PyTorch to predict the closing price
    pip install pandas numpy matplotlib torch scikit-learn
 2.Place AMZN.csv in the project folder (contains Date and Close columns).<br>
 3.Run the script:
-```bash
+  ```bash
      python stock_lstm.py
-
-
-
-
